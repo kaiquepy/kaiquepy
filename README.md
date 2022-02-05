@@ -30,7 +30,7 @@
 ## 🌐 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://linkedin.com/in/kaiquepy" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-kaiquepy-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/kaique.py" target="_blank">
