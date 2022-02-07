@@ -1,10 +1,15 @@
 <h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Kaique Vieira </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquepy&color=yellow" alt="Profile views" /> </p>
   
-- 🔭 Trabalho com desenvolvimento mobile
-- 🌱 Estudo segurança da informação
+Eu crio ideias e desenvolvo soluções na forma de software usando minha criatividade e meu conhecimento técnico em JavaScript construindo web apps com React e mobile-apps usando React-Native de usar e realmente solucionadores de problemas. Além disso, crio APIs RESTful e GraphQL usando NodeJS que podem lidar com altas cargas de solicitações e nunca o decepcionarão.
 
-<br><br>
+Sempre escrevendo não apenas softwares escaláveis, mas também o código legível que possibilitará a escalabilidade.
+
+Um código limpo e compreensível, como deve ser um bom poema.
+
+⚡
+
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -16,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -25,7 +30,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquepy&layout=compact&theme=dark" alt="kaique's most languages"/>
 </p>
 
-<br><br>
+<br>
   
 ## 🌐 &nbsp;Social Links
 
