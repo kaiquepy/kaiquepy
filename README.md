@@ -1,7 +1,7 @@
 <h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Kaique Vieira </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquepy&color=yellow" alt="Profile views" /> </p>
   
-Eu crio ideias e desenvolvo soluções na forma de software usando minha criatividade e meu conhecimento técnico em JavaScript construindo web apps com React e mobile-apps usando React-Native de usar e realmente solucionadores de problemas. Além disso, crio APIs RESTful e GraphQL usando NodeJS que podem lidar com altas cargas de solicitações e nunca o decepcionarão.
+Eu crio ideias e desenvolvo soluções na forma de software usando minha criatividade e meu conhecimento técnico em JavaScript construindo web apps com React e mobile-apps usando React-Native de usar e realmente solucionadores de problemas. Além disso, crio API RESTful usando NodeJS que podem lidar com altas cargas de solicitações e nunca o decepcionarão.
 
 Sempre escrevendo não apenas softwares escaláveis, mas também o código legível que possibilitará a escalabilidade.
 
