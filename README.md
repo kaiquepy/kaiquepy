@@ -32,6 +32,9 @@ Um código limpo e compreensível, como deve ser um bom poema.
  <img align="center" src="https://img.shields.io/badge/-kaique.py-05122A?style=flat&logo=instagram" alt="instagram"/>
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kaiquepy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/kaiquepy?trk=profile-badge">Kaique Vieira</a></div>
+              
+
 <div> 
   
   ![Snake animation](https://github.com/kaiquepy/kaiquepy/blob/output/github-contribution-grid-snake.svg)
